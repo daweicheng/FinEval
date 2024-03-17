@@ -45,6 +45,7 @@ Below is the average accuracy(%) on the test split. We report the average accura
 | Model                  | Size    | Finance | Economy | Accounting | Certificate | Average |
 |------------------------|---------|:-------:|:-------:|:----------:|:-----------:|:-------:|
 | GPT-4                  | unknown |  71.0   |  74.5   |    59.3    |    70.4     |  68.6   |
+| CFGPT-v2-13B           | 13B     |  57.3   |  56.2   |    51.2    |    57.6     |  55.6   |
 | ChatGPT                | 175B    |  59.3   |  61.6   |    45.2    |    55.1     |  55.0   |
 | Qwen-7B                | 7B      |  54.5   |  54.4   |    50.3    |    55.8     |  53.8   |
 | Qwen-Chat-7B           | 7B      |  51.5   |  52.1   |    44.5    |    53.6     |  50.5   |
